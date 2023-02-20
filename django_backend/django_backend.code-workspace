@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "django_backend",
+			"path": "."
+		},
+		{
+			"name": "djang_front-master",
+			"path": "../djang_front-master"
+		}
+	],
+	"settings": {}
+}
